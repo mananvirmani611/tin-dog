@@ -1,0 +1,237 @@
+#title{
+  background-color: #ff4c68;
+  color: white;
+clip-path: inset(0 0 180px 0);
+}
+#main-heading{
+  padding-top: 60px;
+  /* padding-bottom:10px; */
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+.container{
+  padding-right: 15%;
+  padding-left: 15%;
+padding-top: 3%;
+  padding-bottom: 0;
+}
+body{
+  font-family: "Montserrat";
+  margin-bottom: 200px;
+}
+.play-button{
+  padding-left:80px;
+  padding-right:30px;
+}
+.download-button{
+  margin-top:  5%;
+  margin-bottom: 5%;
+  margin-right: 5%;
+}
+.iphone-image{
+  margin-top: 20%;
+  margin-right: 5%;
+  margin-left: 5%;
+  width: 60%;
+  transform: rotate(22deg);
+
+  /* height: auto; */
+}
+.rotating-image{
+    text-align: center;
+    position: relative;
+    z-index: -2;
+
+}
+#tindog{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  font-size: 1.2rem;
+  padding-right: 20px;
+font-family: "Montserrat";
+/* font-weight: 600; */
+  padding-left: 20px;
+}
+#row-id{
+  margin: 0;
+}
+.easy-to-use-image{
+  width: 20%;
+  margin-bottom: 4%;
+}
+.easy-to-use{
+  padding: 0;
+  text-align: center;
+    margin-bottom: 130px;
+}
+.logo{
+    padding: 0;
+  text-align: center;
+    margin-bottom: 130px;
+}
+.work-guaranteed{
+    padding: 0;
+  text-align: center;
+    margin-bottom: 130px;
+}
+.characters{
+  font-size: 30px;
+  font-weight: bold;
+}
+#testimonials{
+
+text-align: center;
+background-color: #ff4c68;
+color: white;
+
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+h2{
+  font-family: "Montserrat";
+  line-height: 1.5;
+}
+.testimonial-examples{
+  font-size: 3rem;
+  font-weight: bold;
+}
+.testimonial-image{
+  border-radius: 100%;
+  width: 20%;
+  margin:20px;
+}
+#press{
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 2%;
+  margin-bottom: 40px;
+}
+
+.button-pricing {
+   -webkit-border-radius: 13px;
+   -moz-border-radius: 13px;
+   border-radius: 13px;
+   height: 50px;
+   line-height: 50px;
+   color: #000000;
+   font-family: Arial;
+   width: 251px;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 33px;
+   background-color: #FFFFFF;
+   border: solid #000000 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+.button-pricing:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+#pricing{
+  padding: 6%;
+  text-align: center;
+}
+.section-pricing{
+  margin-bottom: 5%;
+  padding: 5% 0;
+  margin-top: 20%;
+}
+
+.play-button{
+  padding: 10px 30px;
+}
+@media (max-width:900px) {
+  .iphone-image{
+    margin-top: 20%;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 60%;
+    transform: rotate(0deg);
+
+    /* height: auto; */
+  }
+
+  #title{
+    background-color: #ff4c68;
+    color: white;
+  clip-path: inset(0 0 0 0);
+  margin-bottom: 100px;
+  padding-bottom: 80px;
+  text-align: center;
+  }
+
+  .testimonial-examples{
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+}
+.complete-footer{
+  text-align: center;
+
+
+}
+.end-para{
+  margin-bottom: 0;
+  margin:10px;
+}
+#footer{
+  padding: 50px;
+}
+#cta{
+  color: white;
+  background-color: #ff4c68;
+    padding: 70px;
+
+}
+.end-icons{
+  width: 2%;
+  margin:10px;
+}
+.end-buttons{
+  margin-top:50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#end-line{
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin: 0 15%;
+}
+h3{
+  font-size: 4rem;
+    font-weight: bold;
+    font-family: 'Montserrat';
+}
+#play-button{
+  padding: 10px 30px;
+}
+#end-button{
+  padding: 10px 30px;
+}
